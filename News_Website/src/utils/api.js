@@ -1,4 +1,4 @@
-const api = "19f040e1d4584ebba36c2bbc2ede2847"; // Replace with your own API key from https://newsapi.org/
+const api = "YOUR_API_KEY_HERE"; // Replace with your own API key from https://newsapi.org/
 
 export const fetchHeadlines = async () => {
     const cachedHeadlines = localStorage.getItem("headlines");
