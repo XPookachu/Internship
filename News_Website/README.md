@@ -12,12 +12,12 @@ This React project integrates an external API to fetch and display real-time new
 
 1. Cloning the Repository:
 ```
-git clone https://github.com/aamit2267/World-News.git
+git clone https://github.com/XPookachu/News_Website.git
 ```
 
 2. Install dependencies:
 ```
-cd World-News/
+cd News_Website/
 npm install
 ```
 
@@ -44,12 +44,8 @@ const api = "YOUR_API_KEY_HERE";
 ```
 Set your api key as string and you are all set.
 
-## Glimpse
-![Screenshot-1](src/assets/images/Screenshot-1.png)
-![Screenshot-2](src/assets/images/Screenshot-2.png)
-
 ## Disclaimer
 This project is intended for educational purposes only and is not intended for production use.
 
 ## Author
-This project was created by [Amit Agarwal](https://github.com/aamit2267).
+This project was created by [Parinjay Gupta](https://github.com/XPookachu).
