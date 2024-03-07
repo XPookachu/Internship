@@ -1,4 +1,4 @@
-# World News (NBNW ASSIGNMENT)
+# News Website (NBNW ASSIGNMENT)
 This React project integrates an external API to fetch and display real-time news headlines on a sample news website.
 
 #### Features
